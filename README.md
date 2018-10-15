@@ -1,2 +1,3 @@
-# HeapImplementationas
+# Heap Implementations.
+
 Implementation of Binary , Binomial and Fibonacci Heaps in C++ with complexity analysis.
