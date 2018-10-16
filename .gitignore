@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Video files.
+*.webm
+
+#From tool cmakegit.
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.swp
+valgrind.csv
